@@ -1,0 +1,25 @@
+{
+  "name": "silly-functions-from-test-anything-adventure",
+  "version": "1.0.0",
+  "description": "Attempt at learning testing and npm by completing 'test-anything' adventure",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktopolski/js-fatigue.git"
+  },
+  "keywords": [
+    "test-anything",
+    "adventure",
+    "workshopper",
+    "learning"
+  ],
+  "author": "Karol Topolski",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ktopolski/js-fatigue/issues"
+  },
+  "homepage": "https://github.com/ktopolski/js-fatigue#readme"
+}

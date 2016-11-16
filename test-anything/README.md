@@ -6,8 +6,13 @@ Course not only teaches basic JS testing skills, but also promotes the _Test Dri
 
 If you are familiar with `RSpec` then `tape` will look quite familiar :).
 
+# Bonus
+
+I decided to play a little bit more with `tape` and write some more tests than was needed to complete the course. Also, I never really understood `npm` commands well, so I played with `npm` as well. My goal was to configure something like `rspec spec/`, but for JavaScript world. Check it out using `npm test`. Of course, you have to have `tape` installed. 
+
 # What I've learned
 
 1. "Test anything" is not only a course name, but also a name of the protocol specifying format of test output messages - **TAP**. Guess why `tape` is called `tape`.
 2. Basics of node assertions.
 3. Basic tests with `tape`. I like how course promotes the _Test Driven Development_.
+4. Basic `npm` skills.
